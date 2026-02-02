@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" version="29.3.4">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" version="29.3.6" pages="2">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
-    <mxGraphModel dx="2220" dy="626" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="2115" dy="563" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -64,13 +64,7 @@
             <mxPoint x="-1000" y="440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="C-vyLk0tnHw3VtMMgP7b-12" edge="1" parent="1" style="edgeStyle=entityRelationEdgeStyle;endArrow=ERzeroToMany;startArrow=ERone;endFill=1;startFill=0;" target="C-vyLk0tnHw3VtMMgP7b-17" value="">
-          <mxGeometry height="100" relative="1" width="100" as="geometry">
-            <mxPoint x="700" y="165" as="sourcePoint" />
-            <mxPoint x="460" y="205" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="0sx1qRD5MzTQYRrU61__-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" value="&lt;b&gt;HỆ THỐNG QUẢN LÝ PHÒNG HỌC TRƯỜNG ĐẠI HỌC GIAO THÔNG VẬN TẢI&lt;/b&gt;" vertex="1">
+        <mxCell id="0sx1qRD5MzTQYRrU61__-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" value="&lt;b&gt;QUẢN LÝ PHÒNG HỌC TRƯỜNG ĐẠI HỌC GIAO THÔNG VẬN TẢI&lt;/b&gt;" vertex="1">
           <mxGeometry height="60" width="272" x="-130" y="20" as="geometry" />
         </mxCell>
         <mxCell id="0sx1qRD5MzTQYRrU61__-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="QUẢN LÝ DANH MỤC PHÒNG HỌC&amp;nbsp;" vertex="1">
@@ -291,6 +285,29 @@
             <mxPoint x="1099.87" y="160" as="sourcePoint" />
             <mxPoint x="1099.87" y="120" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="2s9_rujO5xajQCV1ZpJd" name="Trang-2">
+    <mxGraphModel dx="430" dy="256" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="epTlRXYIY0cYak1qZdrS-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Thuê băng đĩa tại trung tâm&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="120" x="20" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="epTlRXYIY0cYak1qZdrS-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Làm thẻ thuê băng đĩa" vertex="1">
+          <mxGeometry height="60" width="120" x="160" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="epTlRXYIY0cYak1qZdrS-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Lấy thông tin khách hàng&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="120" x="310" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="epTlRXYIY0cYak1qZdrS-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Nhập thông tin khách hàng lên hệ thống&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="120" x="450" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="epTlRXYIY0cYak1qZdrS-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Làm thẻ thuê cho khách hàng&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="120" x="585" y="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
