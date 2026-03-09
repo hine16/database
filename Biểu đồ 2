@@ -525,7 +525,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="2s9_rujO5xajQCV1ZpJd" name="DFD">
-    <mxGraphModel dx="627" dy="1102" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1028" dy="1277" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1195,23 +1195,36 @@
         <mxCell id="ZfszD--jzJZpoBu_Ku-s-113" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" value="HỆ THỐNG QUẢN LÝ PHÒNG HỌC TRƯỜNG ĐH GTVT" vertex="1">
           <mxGeometry height="110" width="110" x="700" y="-820" as="geometry" />
         </mxCell>
+        <mxCell id="ZfszD--jzJZpoBu_Ku-s-149" edge="1" parent="1" source="ZfszD--jzJZpoBu_Ku-s-114" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" target="ZfszD--jzJZpoBu_Ku-s-120">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ZfszD--jzJZpoBu_Ku-s-114" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;Phòng đào tạo&lt;/font&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="120" y="-660" as="geometry" />
+          <mxGeometry height="60" width="120" x="230" y="-660" as="geometry" />
         </mxCell>
         <mxCell id="ZfszD--jzJZpoBu_Ku-s-115" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;Hệ thống quản lý đào tạo&lt;/font&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="340" y="-660" as="geometry" />
+          <mxGeometry height="60" width="120" x="230" y="-660" as="geometry" />
+        </mxCell>
+        <mxCell id="ZfszD--jzJZpoBu_Ku-s-167" edge="1" parent="1" source="ZfszD--jzJZpoBu_Ku-s-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0;entryDx=0;entryDy=0;" target="ZfszD--jzJZpoBu_Ku-s-144">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZfszD--jzJZpoBu_Ku-s-116" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;Giảng viên&lt;/font&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="560" y="-660" as="geometry" />
+          <mxGeometry height="60" width="120" x="950" y="-750" as="geometry" />
+        </mxCell>
+        <mxCell id="ZfszD--jzJZpoBu_Ku-s-165" edge="1" parent="1" source="ZfszD--jzJZpoBu_Ku-s-117" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" target="ZfszD--jzJZpoBu_Ku-s-144">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZfszD--jzJZpoBu_Ku-s-117" parent="1" style="whiteSpace=wrap;html=1;" value="&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;Sinh viên&lt;/font&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="1000" y="-660" as="geometry" />
+          <mxGeometry height="60" width="120" x="1200" y="-660" as="geometry" />
         </mxCell>
-        <mxCell id="ZfszD--jzJZpoBu_Ku-s-118" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;Đội kỹ thuật&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="1210" y="-660" as="geometry" />
+        <mxCell id="ZfszD--jzJZpoBu_Ku-s-147" edge="1" parent="1" source="ZfszD--jzJZpoBu_Ku-s-120" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="ZfszD--jzJZpoBu_Ku-s-114">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="150" y="-630" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="ZfszD--jzJZpoBu_Ku-s-119" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;Phòng quản lý thiết bị&lt;/font&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="780" y="-660" as="geometry" />
+        <mxCell id="ZfszD--jzJZpoBu_Ku-s-151" edge="1" parent="1" source="ZfszD--jzJZpoBu_Ku-s-120" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="ZfszD--jzJZpoBu_Ku-s-123">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZfszD--jzJZpoBu_Ku-s-120" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;Nhận đơn đăng ký lịch học" vertex="1">
           <mxGeometry height="60" width="120" x="120" y="-485" as="geometry" />
@@ -1228,6 +1241,9 @@
         <mxCell id="ZfszD--jzJZpoBu_Ku-s-122" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit; font-size: 9px;&quot;&gt;1.0&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="40" x="160" y="-490" as="geometry" />
         </mxCell>
+        <mxCell id="ZfszD--jzJZpoBu_Ku-s-154" edge="1" parent="1" source="ZfszD--jzJZpoBu_Ku-s-123" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="ZfszD--jzJZpoBu_Ku-s-126">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ZfszD--jzJZpoBu_Ku-s-123" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;Phân bổ lịch học&amp;nbsp;" vertex="1">
           <mxGeometry height="60" width="120" x="320" y="-485" as="geometry" />
         </mxCell>
@@ -1242,6 +1258,9 @@
         </mxCell>
         <mxCell id="ZfszD--jzJZpoBu_Ku-s-125" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit; font-size: 9px;&quot;&gt;2.0&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="40" x="360" y="-490" as="geometry" />
+        </mxCell>
+        <mxCell id="ZfszD--jzJZpoBu_Ku-s-157" edge="1" parent="1" source="ZfszD--jzJZpoBu_Ku-s-126" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="ZfszD--jzJZpoBu_Ku-s-133">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZfszD--jzJZpoBu_Ku-s-126" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;Phân bổ phòng học" vertex="1">
           <mxGeometry height="60" width="120" x="520" y="-485" as="geometry" />
@@ -1258,6 +1277,9 @@
         <mxCell id="ZfszD--jzJZpoBu_Ku-s-128" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit; font-size: 9px;&quot;&gt;3.0&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="40" x="560" y="-490" as="geometry" />
         </mxCell>
+        <mxCell id="ZfszD--jzJZpoBu_Ku-s-159" edge="1" parent="1" source="ZfszD--jzJZpoBu_Ku-s-133" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="ZfszD--jzJZpoBu_Ku-s-136">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ZfszD--jzJZpoBu_Ku-s-133" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;Đẩy lịch học lên hệ thống" vertex="1">
           <mxGeometry height="60" width="120" x="740" y="-485" as="geometry" />
         </mxCell>
@@ -1273,6 +1295,18 @@
         <mxCell id="ZfszD--jzJZpoBu_Ku-s-135" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit; font-size: 9px;&quot;&gt;4.0&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="40" x="780" y="-490" as="geometry" />
         </mxCell>
+        <mxCell id="ZfszD--jzJZpoBu_Ku-s-161" edge="1" parent="1" source="ZfszD--jzJZpoBu_Ku-s-136" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="ZfszD--jzJZpoBu_Ku-s-141">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZfszD--jzJZpoBu_Ku-s-172" edge="1" parent="1" source="ZfszD--jzJZpoBu_Ku-s-136" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" target="ZfszD--jzJZpoBu_Ku-s-117">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1070" y="-540" />
+              <mxPoint x="1135" y="-540" />
+              <mxPoint x="1135" y="-645" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="ZfszD--jzJZpoBu_Ku-s-136" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;Thông báo thông tin lịch học&amp;nbsp;" vertex="1">
           <mxGeometry height="60" width="120" x="950" y="-485" as="geometry" />
         </mxCell>
@@ -1285,8 +1319,80 @@
             <mxPoint x="1070" y="-465" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="ZfszD--jzJZpoBu_Ku-s-169" edge="1" parent="1" source="ZfszD--jzJZpoBu_Ku-s-138" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="ZfszD--jzJZpoBu_Ku-s-116">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ZfszD--jzJZpoBu_Ku-s-138" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit; font-size: 9px;&quot;&gt;5.0&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="40" x="990" y="-490" as="geometry" />
+        </mxCell>
+        <mxCell id="ZfszD--jzJZpoBu_Ku-s-163" edge="1" parent="1" source="ZfszD--jzJZpoBu_Ku-s-141" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="ZfszD--jzJZpoBu_Ku-s-144">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZfszD--jzJZpoBu_Ku-s-141" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;Nhận thông báo lịch học" vertex="1">
+          <mxGeometry height="60" width="120" x="1169" y="-485" as="geometry" />
+        </mxCell>
+        <mxCell id="ZfszD--jzJZpoBu_Ku-s-142" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="1229" y="-465" />
+            </Array>
+            <mxPoint x="1169" y="-465" as="sourcePoint" />
+            <mxPoint x="1289" y="-465" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZfszD--jzJZpoBu_Ku-s-143" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit; font-size: 9px;&quot;&gt;6.0&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="40" x="1209" y="-490" as="geometry" />
+        </mxCell>
+        <mxCell id="ZfszD--jzJZpoBu_Ku-s-144" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;Gửi đánh giá phòng học&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="120" x="1365" y="-485" as="geometry" />
+        </mxCell>
+        <mxCell id="ZfszD--jzJZpoBu_Ku-s-145" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="1425" y="-465" />
+            </Array>
+            <mxPoint x="1365" y="-465" as="sourcePoint" />
+            <mxPoint x="1485" y="-465" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZfszD--jzJZpoBu_Ku-s-146" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit; font-size: 9px;&quot;&gt;7.0&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="40" x="1405" y="-490" as="geometry" />
+        </mxCell>
+        <mxCell id="ZfszD--jzJZpoBu_Ku-s-148" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Phiếu đăng kí" vertex="1">
+          <mxGeometry height="30" width="80" x="150" y="-660" as="geometry" />
+        </mxCell>
+        <mxCell id="ZfszD--jzJZpoBu_Ku-s-150" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Lịch học" vertex="1">
+          <mxGeometry height="30" width="60" x="205" y="-570" as="geometry" />
+        </mxCell>
+        <mxCell id="ZfszD--jzJZpoBu_Ku-s-152" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Thông tin&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp;đăng ký&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="250" y="-470" as="geometry" />
+        </mxCell>
+        <mxCell id="ZfszD--jzJZpoBu_Ku-s-155" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Thông tin&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp;lịch học&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="447.5" y="-470" as="geometry" />
+        </mxCell>
+        <mxCell id="ZfszD--jzJZpoBu_Ku-s-158" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Bảng biểu&amp;nbsp;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;lịch&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;học&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="650" y="-470" as="geometry" />
+        </mxCell>
+        <mxCell id="ZfszD--jzJZpoBu_Ku-s-160" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Sơ đồ phòng học&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;kèm thông tin lớp&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="870" y="-470" as="geometry" />
+        </mxCell>
+        <mxCell id="ZfszD--jzJZpoBu_Ku-s-162" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Thông báo&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp;về lịch học&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="1080" y="-470" as="geometry" />
+        </mxCell>
+        <mxCell id="ZfszD--jzJZpoBu_Ku-s-164" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Thông tin&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;lịch học&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="1295" y="-470" as="geometry" />
+        </mxCell>
+        <mxCell id="ZfszD--jzJZpoBu_Ku-s-166" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Phiếu đánh giá" vertex="1">
+          <mxGeometry height="30" width="60" x="1340" y="-660" as="geometry" />
+        </mxCell>
+        <mxCell id="ZfszD--jzJZpoBu_Ku-s-168" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Phiếu đánh giá chất lượng" vertex="1">
+          <mxGeometry height="30" width="200" x="1180" y="-750" as="geometry" />
+        </mxCell>
+        <mxCell id="ZfszD--jzJZpoBu_Ku-s-170" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;rotation=-90;" value="Thông tin lịch học&amp;nbsp;" vertex="1">
+          <mxGeometry height="30" width="190" x="930" y="-610" as="geometry" />
+        </mxCell>
+        <mxCell id="ZfszD--jzJZpoBu_Ku-s-171" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;rotation=-90;" value="Thông tin lịch học&amp;nbsp;" vertex="1">
+          <mxGeometry height="30" width="190" x="1020" y="-610" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
