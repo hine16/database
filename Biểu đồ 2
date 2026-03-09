@@ -205,7 +205,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="BFD">
-    <mxGraphModel dx="3982" dy="1251" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="2466" dy="563" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -520,6 +520,30 @@
         </mxCell>
         <mxCell id="O93_qbKhaHKOH6Yj5Vui-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Đánh giá chất lượng phòng học&amp;nbsp;" vertex="1">
           <mxGeometry height="60" width="120" x="1280" y="335" as="geometry" />
+        </mxCell>
+        <mxCell id="W9dbt-d9JvAHu2h4dNxu-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;Sơ đồ Quản lý lịch học&amp;nbsp;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="170" x="-1150" y="660" as="geometry" />
+        </mxCell>
+        <mxCell id="W9dbt-d9JvAHu2h4dNxu-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;Sơ đồ Quản lý thông báo và nhắc lịch&amp;nbsp;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="170" x="-880" y="750" as="geometry" />
+        </mxCell>
+        <mxCell id="W9dbt-d9JvAHu2h4dNxu-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;Sơ đồ Quản lý danh mục phòng học&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="170" x="-665" y="610" as="geometry" />
+        </mxCell>
+        <mxCell id="W9dbt-d9JvAHu2h4dNxu-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;Sơ đồ Quản lý thiết bị phòng học&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="195" x="-425" y="670" as="geometry" />
+        </mxCell>
+        <mxCell id="W9dbt-d9JvAHu2h4dNxu-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;Sơ đồ Quản lý đăng kí và phân lịch bổ sung&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="170" x="-160" y="740" as="geometry" />
+        </mxCell>
+        <mxCell id="W9dbt-d9JvAHu2h4dNxu-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;Sơ đồ Quản lý lịch sử dụng phòng&amp;nbsp;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="120" x="90" y="530" as="geometry" />
+        </mxCell>
+        <mxCell id="W9dbt-d9JvAHu2h4dNxu-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;Sơ đồ Quản lý tình trạng phòng học&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="170" x="310" y="665" as="geometry" />
+        </mxCell>
+        <mxCell id="W9dbt-d9JvAHu2h4dNxu-11" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;Sơ đồ Báo cáo và thống kê&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="170" x="535" y="510" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
