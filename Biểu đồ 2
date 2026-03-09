@@ -525,12 +525,12 @@
     </mxGraphModel>
   </diagram>
   <diagram id="2s9_rujO5xajQCV1ZpJd" name="DFD">
-    <mxGraphModel dx="1608" dy="1036" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="948" dy="1277" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="ZfszD--jzJZpoBu_Ku-s-111" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 18px; color: rgb(204, 0, 0);&quot;&gt;&lt;b&gt;DFD mức 1 chức năng : Tiếp nhận đăng ký và lập lịch học&lt;/b&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="30" width="520" x="-10" y="-100" as="geometry" />
+          <mxGeometry height="30" width="520" x="20" y="-100" as="geometry" />
         </mxCell>
         <mxCell id="ZfszD--jzJZpoBu_Ku-s-112" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px; background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); color: rgb(204, 0, 0);&quot;&gt;DFD mức 0&lt;/font&gt;&lt;/b&gt;" vertex="1">
           <mxGeometry height="30" width="150" x="10" y="-810" as="geometry" />
@@ -1316,7 +1316,7 @@
             <mxPoint x="1165" y="460" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6FhtbX6YvSDIByoBIvWv-130" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="1.3 Kiểm tra&amp;nbsp; trống" vertex="1">
+        <mxCell id="6FhtbX6YvSDIByoBIvWv-130" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="1.3 Kiểm tra phòng trống" vertex="1">
           <mxGeometry height="60" width="120" x="1235" y="370" as="geometry" />
         </mxCell>
         <mxCell id="6FhtbX6YvSDIByoBIvWv-131" edge="1" parent="1" source="6FhtbX6YvSDIByoBIvWv-132" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="6FhtbX6YvSDIByoBIvWv-134">
@@ -1333,16 +1333,16 @@
         <mxCell id="6FhtbX6YvSDIByoBIvWv-134" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="1.5 Cập nhật phân bổ phòng học lên hệ thống" vertex="1">
           <mxGeometry height="60" width="120" x="1355" y="60" as="geometry" />
         </mxCell>
-        <mxCell id="6FhtbX6YvSDIByoBIvWv-135" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;rotation=-90;" value="Phiếu đăng kí" vertex="1">
+        <mxCell id="6FhtbX6YvSDIByoBIvWv-135" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;rotation=-90;" value="Thông tin lịch học .2" vertex="1">
           <mxGeometry height="30" width="160" x="1030" y="180" as="geometry" />
         </mxCell>
-        <mxCell id="6FhtbX6YvSDIByoBIvWv-136" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Thông tin đăng kí .2" vertex="1">
+        <mxCell id="6FhtbX6YvSDIByoBIvWv-136" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Danh sách phòng học" vertex="1">
           <mxGeometry height="30" width="170" x="1025" y="370" as="geometry" />
         </mxCell>
         <mxCell id="6FhtbX6YvSDIByoBIvWv-137" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Sơ đồ phòng học" vertex="1">
           <mxGeometry height="30" width="130" x="1355" y="370" as="geometry" />
         </mxCell>
-        <mxCell id="6FhtbX6YvSDIByoBIvWv-138" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;rotation=-90;" value="Lịch học kèm thông tin phòng" vertex="1">
+        <mxCell id="6FhtbX6YvSDIByoBIvWv-138" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;rotation=-90;" value="Phòng học kèm lịch học" vertex="1">
           <mxGeometry height="30" width="180" x="1430" y="150" as="geometry" />
         </mxCell>
         <mxCell id="6FhtbX6YvSDIByoBIvWv-139" edge="1" parent="1" source="6FhtbX6YvSDIByoBIvWv-140" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="6FhtbX6YvSDIByoBIvWv-124">
@@ -1360,7 +1360,7 @@
             <mxPoint x="895.0000000000002" y="160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6FhtbX6YvSDIByoBIvWv-143" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;Thông tin đăng ký lịch học&lt;/font&gt;&lt;/font&gt;" vertex="1">
+        <mxCell id="6FhtbX6YvSDIByoBIvWv-143" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="CSDL phòng học&amp;nbsp;" vertex="1">
           <mxGeometry height="30" width="130" x="905" y="168" as="geometry" />
         </mxCell>
         <mxCell id="6FhtbX6YvSDIByoBIvWv-144" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
@@ -1396,7 +1396,7 @@
             <mxPoint x="1125.0000000000002" y="460" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6FhtbX6YvSDIByoBIvWv-150" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;CSDL lịch học&lt;/font&gt;&lt;/font&gt;" vertex="1">
+        <mxCell id="6FhtbX6YvSDIByoBIvWv-150" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;CSDL phòng học&lt;/font&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="130" x="1135" y="468" as="geometry" />
         </mxCell>
         <mxCell id="6FhtbX6YvSDIByoBIvWv-151" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
@@ -1432,13 +1432,13 @@
         <mxCell id="6FhtbX6YvSDIByoBIvWv-157" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;Hệ thống quản lý đào tạo&lt;/font&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="1235" y="230" as="geometry" />
         </mxCell>
-        <mxCell id="6FhtbX6YvSDIByoBIvWv-158" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Thông tin lịch học" vertex="1">
-          <mxGeometry height="30" width="60" x="1225" y="320" as="geometry" />
+        <mxCell id="6FhtbX6YvSDIByoBIvWv-158" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Thông tin phòng học .3" vertex="1">
+          <mxGeometry height="30" width="95" x="1190" y="320" as="geometry" />
         </mxCell>
         <mxCell id="6FhtbX6YvSDIByoBIvWv-159" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="GV/SV" vertex="1">
           <mxGeometry height="40" width="110" x="1360" y="-40" as="geometry" />
         </mxCell>
-        <mxCell id="6FhtbX6YvSDIByoBIvWv-160" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Thông báo lịch học" vertex="1">
+        <mxCell id="6FhtbX6YvSDIByoBIvWv-160" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Thông báo phòng học" vertex="1">
           <mxGeometry height="30" width="170" x="1395" y="20" as="geometry" />
         </mxCell>
       </root>
