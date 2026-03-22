@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36" version="29.6.1" pages="4">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36" version="29.6.1" pages="5">
   <diagram id="ADJE2CqqbsWO6MVos-kb" name="ERD">
     <mxGraphModel dx="1185" dy="1390" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -325,7 +325,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="BFD">
-    <mxGraphModel dx="2202" dy="937" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="2547" dy="1249" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2099,6 +2099,86 @@
         </mxCell>
         <mxCell id="LW9y16Ri_ejHNFQlrtUw-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Xác nhận hoàn tất sửa chữa" vertex="1">
           <mxGeometry height="30" width="270" x="640" y="380" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="hmNy4ptYdH2OMZLkikCV" name="DFD mức 0">
+    <mxGraphModel dx="590" dy="535" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="j1R8YPSpw40QfeCDwp3C-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&amp;nbsp;1&amp;nbsp; &amp;nbsp; &amp;nbsp; Quản lý thông&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; tin phòng học&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="120" x="20" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="j1R8YPSpw40QfeCDwp3C-2" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;entryX=0.184;entryY=0.007;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.182;exitY=0.984;exitDx=0;exitDy=0;exitPerimeter=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="44.879999999999995" y="279" as="sourcePoint" />
+            <mxPoint x="44.879999999999995" y="221" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j1R8YPSpw40QfeCDwp3C-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&amp;nbsp;2&amp;nbsp; &amp;nbsp; &amp;nbsp; Quản lý thông&amp;nbsp; &amp;nbsp; &amp;nbsp; báo" vertex="1">
+          <mxGeometry height="60" width="120" x="200" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="j1R8YPSpw40QfeCDwp3C-4" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;entryX=0.184;entryY=0.007;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.182;exitY=0.984;exitDx=0;exitDy=0;exitPerimeter=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="224.88" y="279" as="sourcePoint" />
+            <mxPoint x="224.88" y="221" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j1R8YPSpw40QfeCDwp3C-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="3&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;span style=&quot;white-space-collapse: preserve; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Quản lý thiết bị phòng học&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="410" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="j1R8YPSpw40QfeCDwp3C-6" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;entryX=0.184;entryY=0.007;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.182;exitY=0.984;exitDx=0;exitDy=0;exitPerimeter=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="434.88" y="279" as="sourcePoint" />
+            <mxPoint x="434.88" y="221" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j1R8YPSpw40QfeCDwp3C-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&amp;nbsp;4&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;span style=&quot;white-space-collapse: preserve; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Quản lý lịch sử dụng phòng&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="630" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="j1R8YPSpw40QfeCDwp3C-9" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;entryX=0.184;entryY=0.007;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.182;exitY=0.984;exitDx=0;exitDy=0;exitPerimeter=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="654.88" y="279" as="sourcePoint" />
+            <mxPoint x="654.88" y="221" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j1R8YPSpw40QfeCDwp3C-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&amp;nbsp;5&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;span style=&quot;white-space-collapse: preserve; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Quản lý tình trạng phòng học&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="160" x="870" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="j1R8YPSpw40QfeCDwp3C-11" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;entryX=0.184;entryY=0.007;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.182;exitY=0.984;exitDx=0;exitDy=0;exitPerimeter=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="894.88" y="309" as="sourcePoint" />
+            <mxPoint x="894.88" y="251" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j1R8YPSpw40QfeCDwp3C-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&amp;nbsp;6&amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;span style=&quot;white-space-collapse: preserve; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Báo cáo và thống kê&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="160" x="300" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="j1R8YPSpw40QfeCDwp3C-14" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;entryX=0.184;entryY=0.007;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.182;exitY=0.984;exitDx=0;exitDy=0;exitPerimeter=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="324.88" y="529" as="sourcePoint" />
+            <mxPoint x="324.88" y="471" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j1R8YPSpw40QfeCDwp3C-16" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&amp;nbsp;7&amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;span style=&quot;white-space-collapse: preserve; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Quản lý quy định sử dụng phòng học&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="160" x="584" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="j1R8YPSpw40QfeCDwp3C-17" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;entryX=0.184;entryY=0.007;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.182;exitY=0.984;exitDx=0;exitDy=0;exitPerimeter=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="608.88" y="529" as="sourcePoint" />
+            <mxPoint x="608.88" y="471" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j1R8YPSpw40QfeCDwp3C-18" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&amp;nbsp;7&amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;span style=&quot;white-space-collapse: preserve; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Quản lý quy định sử dụng phòng học&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="160" x="900" y="500" as="geometry" />
+        </mxCell>
+        <mxCell id="j1R8YPSpw40QfeCDwp3C-19" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;entryX=0.184;entryY=0.007;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.182;exitY=0.984;exitDx=0;exitDy=0;exitPerimeter=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="924.88" y="559" as="sourcePoint" />
+            <mxPoint x="924.88" y="501" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
