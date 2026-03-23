@@ -2104,7 +2104,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="hmNy4ptYdH2OMZLkikCV" name="DFD mức 0">
-    <mxGraphModel dx="2055" dy="803" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2409" dy="1124" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2779,12 +2779,12 @@
     </mxGraphModel>
   </diagram>
   <diagram id="h5SiKyaeatthhyyTZR6r" name="DFD mức 1">
-    <mxGraphModel dx="1771" dy="1606" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="729" dy="661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Pc_bBSlKTaTHIYl_MrXM-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;8.0 Quản lý sự cố và bảo trì&lt;/b&gt;" vertex="1">
-          <mxGeometry height="30" width="186" x="24" y="160" as="geometry" />
+        <mxCell id="Pc_bBSlKTaTHIYl_MrXM-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;white-space-collapse: preserve;&quot;&gt;&lt;b&gt;8.0  Xử lý sự cố và bảo trì thiết bị&lt;/b&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="236" x="24" y="160" as="geometry" />
         </mxCell>
         <mxCell id="0XG14DlbZLKa6pxbFZXJ-7" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" target="0XG14DlbZLKa6pxbFZXJ-1">
           <mxGeometry relative="1" as="geometry">
@@ -3019,7 +3019,7 @@
         <mxCell id="E1A8U5RDW8fXzuXcf3Ba-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="thông tin sự cố" vertex="1">
           <mxGeometry height="30" width="160" x="700" y="381" as="geometry" />
         </mxCell>
-        <mxCell id="E1A8U5RDW8fXzuXcf3Ba-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;10.0 Hỗ trợ người dùng&lt;/b&gt;" vertex="1">
+        <mxCell id="E1A8U5RDW8fXzuXcf3Ba-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;pre class=&quot;overflow-visible! px-0!&quot; data-start=&quot;511&quot; data-end=&quot;827&quot;&gt;&lt;div class=&quot;relative w-full mt-4 mb-1&quot;&gt;&lt;div class=&quot;&quot;&gt;&lt;div class=&quot;relative&quot;&gt;&lt;div class=&quot;h-full min-h-0 min-w-0&quot;&gt;&lt;div class=&quot;h-full min-h-0 min-w-0&quot;&gt;&lt;div class=&quot;border border-token-border-light border-radius-3xl corner-superellipse/1.1 rounded-3xl&quot;&gt;&lt;div class=&quot;h-full w-full border-radius-3xl bg-token-bg-elevated-secondary corner-superellipse/1.1 overflow-clip rounded-3xl lxnfua_clipPathFallback&quot;&gt;&lt;div class=&quot;pe-11 pt-3&quot;&gt;&lt;div class=&quot;relative z-0 flex max-w-full&quot;&gt;&lt;div id=&quot;code-block-viewer&quot; dir=&quot;ltr&quot; class=&quot;q9tKkq_viewer cm-editor z-10 light:cm-light dark:cm-light flex h-full w-full flex-col items-stretch ͼk ͼy&quot;&gt;&lt;div class=&quot;cm-scroller&quot;&gt;&lt;div class=&quot;cm-content q9tKkq_readonly&quot;&gt;&lt;b&gt;10.0 Xử lý hỗ trợ người dùng&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;&quot;&gt;&lt;div class=&quot;&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/pre&gt;" vertex="1">
           <mxGeometry height="30" width="186" x="1180" y="909" as="geometry" />
         </mxCell>
         <mxCell id="E1A8U5RDW8fXzuXcf3Ba-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;rotation=90;" value="" vertex="1">
@@ -3247,7 +3247,7 @@
         <mxCell id="E-BB82KozyQkKSvhwHaZ-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="D9" vertex="1">
           <mxGeometry height="30" width="60" x="1730" y="1347.05" as="geometry" />
         </mxCell>
-        <mxCell id="VbDbZf0JsyLKYxKfZdWs-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;4.2 Quản lý đăng ký phòng học&lt;/b&gt;" vertex="1">
+        <mxCell id="VbDbZf0JsyLKYxKfZdWs-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;white-space-collapse: preserve;&quot;&gt;&lt;b&gt;4.0 Xử lý đăng ký phòng&lt;/b&gt;&lt;/span&gt;" vertex="1">
           <mxGeometry height="30" width="186" x="1210" y="69.95" as="geometry" />
         </mxCell>
         <mxCell id="VbDbZf0JsyLKYxKfZdWs-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;rotation=90;" value="" vertex="1">
