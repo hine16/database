@@ -3732,13 +3732,13 @@
             <mxPoint x="250" y="350" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qH5mMXHNjO8TE8ROfIEs-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="2.1 Quản lý thông tin phòng&amp;nbsp;" vertex="1">
+        <mxCell id="qH5mMXHNjO8TE8ROfIEs-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="2.1 Quản lý thông tin phòng học&amp;nbsp;" vertex="1">
           <mxGeometry height="40" width="100" x="270" y="370" as="geometry" />
         </mxCell>
-        <mxCell id="qH5mMXHNjO8TE8ROfIEs-18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="2.2 Quản lý thiết bị phòng&amp;nbsp;" vertex="1">
+        <mxCell id="qH5mMXHNjO8TE8ROfIEs-18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="2.2 Quản lý thiết bị phòng học" vertex="1">
           <mxGeometry height="40" width="100" x="270" y="430" as="geometry" />
         </mxCell>
-        <mxCell id="qH5mMXHNjO8TE8ROfIEs-19" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="2.3 Theo dõi tình trạng&amp;nbsp; vệ sinh&amp;nbsp;" vertex="1">
+        <mxCell id="qH5mMXHNjO8TE8ROfIEs-19" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="2.3 Theo dõi tình trạng và vệ sinh&amp;nbsp;" vertex="1">
           <mxGeometry height="40" width="100" x="270" y="490" as="geometry" />
         </mxCell>
         <mxCell id="qH5mMXHNjO8TE8ROfIEs-20" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="2.4 Quản lý sự cố và bảo trì" vertex="1">
