@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36" version="29.6.1" pages="6">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36" version="29.6.6" pages="7">
   <diagram id="ADJE2CqqbsWO6MVos-kb" name="ERD">
     <mxGraphModel dx="886" dy="1630" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -325,7 +325,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="BFD">
-    <mxGraphModel dx="2547" dy="1249" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="4132" dy="1408" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3642,6 +3642,47 @@
         </mxCell>
         <mxCell id="cROufgmP85gMLPz5iM6x-28" parent="1" style="text;whiteSpace=wrap;html=1;" value="Kết quả đăng ký" vertex="1">
           <mxGeometry height="40" width="120" x="1600" y="610" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="Ly4YP78U1UsUdwi1utM4" name="BFD_final">
+    <mxGraphModel dx="1077" dy="512" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="KbqNwW-PgH9cj2Uf-KVz-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;Xây dựng hệ thống quản lý phòng học của Trường Đại học Giao Thông Vận Tải&lt;/font&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="70" width="475" x="347" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="DbUi-2f0dAHRhQfgMBB--1" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="KbqNwW-PgH9cj2Uf-KVz-1" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="585" y="160" as="sourcePoint" />
+            <mxPoint x="540" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DbUi-2f0dAHRhQfgMBB--2" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="80" y="160" as="sourcePoint" />
+            <mxPoint x="1080" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qH5mMXHNjO8TE8ROfIEs-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Quản lý lịch học và đăng kí phòng bổ sung" vertex="1">
+          <mxGeometry height="60" width="120" x="20" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="qH5mMXHNjO8TE8ROfIEs-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Quản lý cơ sở vật chất và tình trạng phòng&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="120" x="230" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="qH5mMXHNjO8TE8ROfIEs-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Quản lý quy định và thông báo&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="120" x="450" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="qH5mMXHNjO8TE8ROfIEs-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Báo cáo và thống kê&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="120" x="660" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="qH5mMXHNjO8TE8ROfIEs-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Quản trị hệ thống&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="120" x="870" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="qH5mMXHNjO8TE8ROfIEs-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Hỗ trợ người dùng&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="120" x="1049" y="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
