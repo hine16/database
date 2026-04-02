@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36" version="29.6.6" pages="7">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36" version="29.6.6" pages="8">
   <diagram id="ADJE2CqqbsWO6MVos-kb" name="ERD">
     <mxGraphModel dx="886" dy="1630" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -3647,7 +3647,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Ly4YP78U1UsUdwi1utM4" name="BFD_final">
-    <mxGraphModel dx="1481" dy="704" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="551" dy="262" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3810,7 +3810,7 @@
         <mxCell id="qH5mMXHNjO8TE8ROfIEs-35" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="4.1 Thống kê sử dụng&amp;nbsp;" vertex="1">
           <mxGeometry height="40" width="100" x="690" y="370" as="geometry" />
         </mxCell>
-        <mxCell id="qH5mMXHNjO8TE8ROfIEs-36" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="4.2 Báo cáo kỹ&amp;nbsp;" vertex="1">
+        <mxCell id="qH5mMXHNjO8TE8ROfIEs-36" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="4.2 Báo cáo kỹ thuật" vertex="1">
           <mxGeometry height="40" width="100" x="690" y="430" as="geometry" />
         </mxCell>
         <mxCell id="qH5mMXHNjO8TE8ROfIEs-37" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="4.3 Truy xuất lịch sử&amp;nbsp;" vertex="1">
@@ -3840,13 +3840,13 @@
             <mxPoint x="860" y="350" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TT01PIkdupzn0kL3L-Nl-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="5.1 Quản lý người&amp;nbsp;" vertex="1">
+        <mxCell id="TT01PIkdupzn0kL3L-Nl-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="5.1 Quản lý người dùng" vertex="1">
           <mxGeometry height="40" width="100" x="880" y="370" as="geometry" />
         </mxCell>
         <mxCell id="TT01PIkdupzn0kL3L-Nl-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="5.2 Phân quyền truy cập người dùng" vertex="1">
           <mxGeometry height="50" width="100" x="880" y="430" as="geometry" />
         </mxCell>
-        <mxCell id="TT01PIkdupzn0kL3L-Nl-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="5.3 Thiết lập cấu hình hệ&amp;nbsp;" vertex="1">
+        <mxCell id="TT01PIkdupzn0kL3L-Nl-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="5.3 Thiết lập cấu hình hệ thống" vertex="1">
           <mxGeometry height="40" width="100" x="880" y="490" as="geometry" />
         </mxCell>
         <mxCell id="TT01PIkdupzn0kL3L-Nl-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="5.4 Sao lưu và phục hồi" vertex="1">
@@ -3885,7 +3885,7 @@
         <mxCell id="TT01PIkdupzn0kL3L-Nl-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="6.1 Hướng dẫn người dùng&amp;nbsp;" vertex="1">
           <mxGeometry height="40" width="100" x="1051" y="370" as="geometry" />
         </mxCell>
-        <mxCell id="TT01PIkdupzn0kL3L-Nl-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="6.2 Hỗ trợ tìm&amp;nbsp;" vertex="1">
+        <mxCell id="TT01PIkdupzn0kL3L-Nl-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="6.2 Hỗ trợ tìm kiếm" vertex="1">
           <mxGeometry height="40" width="100" x="1051" y="430" as="geometry" />
         </mxCell>
         <mxCell id="TT01PIkdupzn0kL3L-Nl-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="6.3 Tiếp nhận phản hồi và đánh giá" vertex="1">
@@ -3945,6 +3945,14 @@
             <mxPoint x="1069.88" y="250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="6pbgtb65oR_jidy4RZ0c" name="DFD_ngữ_cảnh_final">
+    <mxGraphModel dx="1185" dy="563" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
