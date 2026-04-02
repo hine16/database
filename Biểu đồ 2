@@ -3780,7 +3780,7 @@
         <mxCell id="qH5mMXHNjO8TE8ROfIEs-27" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="3.2 Giám sát vi phạm&amp;nbsp;" vertex="1">
           <mxGeometry height="40" width="100" x="480" y="430" as="geometry" />
         </mxCell>
-        <mxCell id="qH5mMXHNjO8TE8ROfIEs-28" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="3.3 Quản lý tin tức và thông&amp;nbsp;" vertex="1">
+        <mxCell id="qH5mMXHNjO8TE8ROfIEs-28" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="3.3 Quản lý tin tức và thông báo&amp;nbsp;" vertex="1">
           <mxGeometry height="40" width="100" x="480" y="490" as="geometry" />
         </mxCell>
         <mxCell id="qH5mMXHNjO8TE8ROfIEs-30" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="qH5mMXHNjO8TE8ROfIEs-26" value="">
