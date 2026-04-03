@@ -4457,7 +4457,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="r-igEMwtT2b43US-IBGA" name="DFD_mức_1.">
-    <mxGraphModel dx="644" dy="388" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1168" dy="704" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4624,7 +4624,7 @@
             <mxPoint x="210" y="610" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NRio-vc3kn19asYA5Fix-17" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;rotation=-90;" value="&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;Dữ liệu phòng học và kế hoạch giảng dạy&lt;/font&gt;&lt;/font&gt;" vertex="1">
+        <mxCell id="NRio-vc3kn19asYA5Fix-17" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;rotation=-90;" value="&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;Yêu cầu phân bổ phòng học&lt;/font&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="130" x="155" y="590" as="geometry" />
         </mxCell>
         <mxCell id="NRio-vc3kn19asYA5Fix-18" edge="1" parent="1" source="NRio-vc3kn19asYA5Fix-12" style="endArrow=classic;html=1;rounded=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" value="">
@@ -4637,7 +4637,7 @@
             <mxPoint x="380" y="510" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NRio-vc3kn19asYA5Fix-19" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;rotation=90;" value="&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;Phòng học đã phân bổ&lt;/font&gt;&lt;/font&gt;" vertex="1">
+        <mxCell id="NRio-vc3kn19asYA5Fix-19" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;rotation=90;" value="&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;Kết quả phân bổ phòng học&lt;/font&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="130" x="365" y="580" as="geometry" />
         </mxCell>
         <mxCell id="NRio-vc3kn19asYA5Fix-20" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
