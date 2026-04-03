@@ -4331,11 +4331,15 @@
         <mxCell id="OHyx-EWsNMnF7ycYMv9Q-84" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=13;fontColor=#143642;" value="Thông tin thay đổi" vertex="1">
           <mxGeometry height="30" width="97.5" x="365" y="633" as="geometry" />
         </mxCell>
-        <mxCell id="OHyx-EWsNMnF7ycYMv9Q-85" edge="1" parent="1" source="OHyx-EWsNMnF7ycYMv9Q-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.778;entryY=0.972;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#A8201A;fontFamily=Helvetica;fontSize=13;fontColor=#143642;fillColor=#FAE5C7;" target="OHyx-EWsNMnF7ycYMv9Q-74">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="OHyx-EWsNMnF7ycYMv9Q-85" edge="1" parent="1" source="OHyx-EWsNMnF7ycYMv9Q-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#A8201A;fontFamily=Helvetica;fontSize=13;fontColor=#143642;fillColor=#FAE5C7;" target="QM_nCVOzJlbLFs3JKfH7-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="710" y="663" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="OHyx-EWsNMnF7ycYMv9Q-86" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=13;fontColor=#143642;rotation=-90;" value="Lịch sử/ nội dung thông báo&amp;nbsp;" vertex="1">
-          <mxGeometry height="30" width="98.75" x="496.25" y="533" as="geometry" />
+        <mxCell id="OHyx-EWsNMnF7ycYMv9Q-86" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=13;fontColor=#143642;rotation=0;" value="Lịch sử/ nội dung thông báo&amp;nbsp;" vertex="1">
+          <mxGeometry height="30" width="98.75" x="576.25" y="665.75" as="geometry" />
         </mxCell>
         <mxCell id="OHyx-EWsNMnF7ycYMv9Q-88" edge="1" parent="1" source="OHyx-EWsNMnF7ycYMv9Q-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#A8201A;fontFamily=Helvetica;fontSize=13;fontColor=#143642;fillColor=#FAE5C7;" target="OHyx-EWsNMnF7ycYMv9Q-27">
           <mxGeometry relative="1" as="geometry">
