@@ -4022,7 +4022,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="fyOa-aGzlr-eekbFRxFu" name="DFD_mức_0">
-    <mxGraphModel dx="1113" dy="662" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="626" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4316,7 +4316,7 @@
         <mxCell id="OHyx-EWsNMnF7ycYMv9Q-76" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=13;fontColor=#143642;" value="D4" vertex="1">
           <mxGeometry height="15" width="32.5" x="430" y="465.5" as="geometry" />
         </mxCell>
-        <mxCell id="OHyx-EWsNMnF7ycYMv9Q-77" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=13;fontColor=#143642;" value="Quy định &amp;amp; thông báo" vertex="1">
+        <mxCell id="OHyx-EWsNMnF7ycYMv9Q-77" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=13;fontColor=#143642;" value="Quy định" vertex="1">
           <mxGeometry height="30" width="60" x="475" y="458" as="geometry" />
         </mxCell>
         <mxCell id="OHyx-EWsNMnF7ycYMv9Q-79" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=13;fontColor=#143642;" value="Quy định sử dụng phòng / thiết bị" vertex="1">
@@ -4452,6 +4452,24 @@
         </mxCell>
         <mxCell id="gGcbEcD3614OgbK7enOQ-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=13;fontColor=#143642;" value="Thông tin lịch học" vertex="1">
           <mxGeometry height="30" width="60" x="140" y="263" as="geometry" />
+        </mxCell>
+        <mxCell id="QM_nCVOzJlbLFs3JKfH7-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#0F8B8D;fontColor=#143642;fillColor=#FAE5C7;fontSize=13;" value="" vertex="1">
+          <mxGeometry height="60" width="120" x="650" y="750" as="geometry" />
+        </mxCell>
+        <mxCell id="QM_nCVOzJlbLFs3JKfH7-2" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;strokeColor=#A8201A;fontColor=#143642;fillColor=#FAE5C7;entryX=0.25;entryY=0;entryDx=0;entryDy=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;fontSize=13;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="692.5" y="780" />
+            </Array>
+            <mxPoint x="692.5" y="810" as="sourcePoint" />
+            <mxPoint x="692.5" y="750" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QM_nCVOzJlbLFs3JKfH7-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=13;fontColor=#143642;" value="D6" vertex="1">
+          <mxGeometry height="15" width="32.5" x="655" y="772.5" as="geometry" />
+        </mxCell>
+        <mxCell id="QM_nCVOzJlbLFs3JKfH7-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=13;fontColor=#143642;" value="Thông báo" vertex="1">
+          <mxGeometry height="30" width="60" x="700" y="765" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
