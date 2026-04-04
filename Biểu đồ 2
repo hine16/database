@@ -5174,7 +5174,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="HpSPm3yNn6VU6WXw0QoM" name="DFD_mức1_1_4">
-    <mxGraphModel dx="1334" dy="804" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1955" dy="938" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -5239,7 +5239,7 @@
         <mxCell id="YxfpKcat53FjEUcZLxO6-8" edge="1" parent="1" source="Vkoh_pDCmcl8OxRbAcaV-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" target="Vkoh_pDCmcl8OxRbAcaV-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Vkoh_pDCmcl8OxRbAcaV-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Lịch sử sử dụng phòng" vertex="1">
+        <mxCell id="Vkoh_pDCmcl8OxRbAcaV-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Phòng học" vertex="1">
           <mxGeometry height="40" width="112.5" x="145" y="451.00000000000006" as="geometry" />
         </mxCell>
         <mxCell id="aJn09--RQj9Qe7g1cn1T-12" edge="1" parent="1" source="Vkoh_pDCmcl8OxRbAcaV-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
@@ -6038,6 +6038,21 @@
         </mxCell>
         <mxCell id="IjgGFYlY59D4d8xqBVXy-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Tài liệu hướng dẫn&amp;nbsp;" vertex="1">
           <mxGeometry height="30" width="70" x="375" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="IjgGFYlY59D4d8xqBVXy-3" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="10" y="439" as="sourcePoint" />
+            <mxPoint x="170" y="439" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IjgGFYlY59D4d8xqBVXy-4" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="10" y="479" as="sourcePoint" />
+            <mxPoint x="170" y="479" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IjgGFYlY59D4d8xqBVXy-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Người dùng" vertex="1">
+          <mxGeometry height="40" width="112.5" x="25" y="440" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
