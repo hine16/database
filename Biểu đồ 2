@@ -4500,7 +4500,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="r-igEMwtT2b43US-IBGA" name="DFD_mức_1.">
-    <mxGraphModel dx="1168" dy="704" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1699" dy="751" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4744,7 +4744,7 @@
             <mxPoint x="1080" y="624.38" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="us2z7tcQ7u9O9LbKBgNE-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Lịch sử sử dụng phòng" vertex="1">
+        <mxCell id="us2z7tcQ7u9O9LbKBgNE-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Phòng học" vertex="1">
           <mxGeometry height="40" width="125" x="937.5" y="584.38" as="geometry" />
         </mxCell>
         <mxCell id="us2z7tcQ7u9O9LbKBgNE-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Thông tin sử dụng phòng học kèm thiết bị" vertex="1">
@@ -5891,7 +5891,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="kdm-YGAHzDX-1P_Fk-4O" name="DFD_mức1_1_6">
-    <mxGraphModel dx="1173" dy="563" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1274" dy="563" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -6041,18 +6041,54 @@
         </mxCell>
         <mxCell id="IjgGFYlY59D4d8xqBVXy-3" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="10" y="439" as="sourcePoint" />
-            <mxPoint x="170" y="439" as="targetPoint" />
+            <mxPoint x="10" y="340" as="sourcePoint" />
+            <mxPoint x="170" y="340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="IjgGFYlY59D4d8xqBVXy-4" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="10" y="479" as="sourcePoint" />
-            <mxPoint x="170" y="479" as="targetPoint" />
+            <mxPoint x="10" y="380" as="sourcePoint" />
+            <mxPoint x="170" y="380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IjgGFYlY59D4d8xqBVXy-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Người dùng" vertex="1">
-          <mxGeometry height="40" width="112.5" x="25" y="440" as="geometry" />
+        <mxCell id="iSN-6ABAM5VSwXaTABMv-4" edge="1" parent="1" source="IjgGFYlY59D4d8xqBVXy-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" target="apgq_uesSUiRfmOEucoK-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="81" y="423" />
+              <mxPoint x="200" y="423" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IjgGFYlY59D4d8xqBVXy-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Phòng học" vertex="1">
+          <mxGeometry height="40" width="112.5" x="25" y="341" as="geometry" />
+        </mxCell>
+        <mxCell id="iSN-6ABAM5VSwXaTABMv-1" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1.25" y="503" as="sourcePoint" />
+            <mxPoint x="161.25" y="503" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iSN-6ABAM5VSwXaTABMv-2" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1.25" y="543" as="sourcePoint" />
+            <mxPoint x="161.25" y="543" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iSN-6ABAM5VSwXaTABMv-6" edge="1" parent="1" source="iSN-6ABAM5VSwXaTABMv-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="apgq_uesSUiRfmOEucoK-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="73" y="450" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iSN-6ABAM5VSwXaTABMv-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Quy định" vertex="1">
+          <mxGeometry height="40" width="112.5" x="16.25" y="504" as="geometry" />
+        </mxCell>
+        <mxCell id="iSN-6ABAM5VSwXaTABMv-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Bản đồ phòng học" vertex="1">
+          <mxGeometry height="30" width="150" x="90" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="iSN-6ABAM5VSwXaTABMv-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Văn bản quy định" vertex="1">
+          <mxGeometry height="30" width="160" x="70" y="460" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
