@@ -4400,7 +4400,7 @@
         <mxCell id="gGojDHQu0DSSNecyz1Ze-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=13;fontColor=#143642;" value="D3" vertex="1">
           <mxGeometry height="15" width="32.5" x="630" y="405.5" as="geometry" />
         </mxCell>
-        <mxCell id="gGojDHQu0DSSNecyz1Ze-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=13;fontColor=#143642;" value="Người dùng" vertex="1">
+        <mxCell id="gGojDHQu0DSSNecyz1Ze-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=13;fontColor=#143642;" value="Hồ sơ người dùng" vertex="1">
           <mxGeometry height="30" width="60" x="675" y="398" as="geometry" />
         </mxCell>
         <mxCell id="gGojDHQu0DSSNecyz1Ze-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=13;fontColor=#143642;rotation=-90;" value="Tài khoản người dùng" vertex="1">
