@@ -4043,7 +4043,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="fyOa-aGzlr-eekbFRxFu" name="DFD_mức_0">
-    <mxGraphModel dx="1805" dy="866" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="978" dy="469" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4449,13 +4449,13 @@
         <mxCell id="gGojDHQu0DSSNecyz1Ze-20" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=13;fontColor=#143642;" value="Lịch sử hỗ trợ" vertex="1">
           <mxGeometry height="30" width="190" x="615" y="168" as="geometry" />
         </mxCell>
-        <mxCell id="gGojDHQu0DSSNecyz1Ze-22" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=13;fontColor=#143642;rotation=-90;" value="Thông tin người dùng" vertex="1">
+        <mxCell id="gGojDHQu0DSSNecyz1Ze-22" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=13;fontColor=#143642;rotation=-90;" value="Hồ sơ người dùng" vertex="1">
           <mxGeometry height="30" width="130" x="650" y="293" as="geometry" />
         </mxCell>
         <mxCell id="gGojDHQu0DSSNecyz1Ze-26" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=13;fontColor=#143642;rotation=-90;" value="Thông tin vấn đề hệ thống&amp;nbsp;" vertex="1">
           <mxGeometry height="30" width="175" x="792.5" y="345.5" as="geometry" />
         </mxCell>
-        <mxCell id="gGojDHQu0DSSNecyz1Ze-28" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=13;fontColor=#143642;" value="Nội dung chi tiết vấn đề" vertex="1">
+        <mxCell id="gGojDHQu0DSSNecyz1Ze-28" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=13;fontColor=#143642;" value="Chi tiết yêu cầu hỗ trợ" vertex="1">
           <mxGeometry height="30" width="160" x="855" y="503" as="geometry" />
         </mxCell>
         <mxCell id="gGojDHQu0DSSNecyz1Ze-29" edge="1" parent="1" source="OHyx-EWsNMnF7ycYMv9Q-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.951;entryY=-0.001;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#A8201A;fontFamily=Helvetica;fontSize=13;fontColor=#143642;fillColor=#FAE5C7;" target="OHyx-EWsNMnF7ycYMv9Q-31">
@@ -4475,8 +4475,8 @@
         <mxCell id="gGcbEcD3614OgbK7enOQ-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=13;fontColor=#143642;" value="Tình trạng CSVC" vertex="1">
           <mxGeometry height="30" width="60" x="340" y="263" as="geometry" />
         </mxCell>
-        <mxCell id="gGcbEcD3614OgbK7enOQ-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=13;fontColor=#143642;" value="Thông tin lịch học" vertex="1">
-          <mxGeometry height="30" width="60" x="140" y="263" as="geometry" />
+        <mxCell id="gGcbEcD3614OgbK7enOQ-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=13;fontColor=#143642;" value="Danh sách lịch học" vertex="1">
+          <mxGeometry height="30" width="70" x="140" y="263" as="geometry" />
         </mxCell>
         <mxCell id="QM_nCVOzJlbLFs3JKfH7-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#0F8B8D;fontColor=#143642;fillColor=#FAE5C7;fontSize=13;" value="" vertex="1">
           <mxGeometry height="60" width="120" x="650" y="750" as="geometry" />
