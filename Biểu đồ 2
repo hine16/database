@@ -5580,7 +5580,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Ly4YP78U1UsUdwi1utM4" name="BFD_final">
-    <mxGraphModel dx="1173" dy="563" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1235" dy="593" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -5816,7 +5816,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="TT01PIkdupzn0kL3L-Nl-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="6.1 Cung cấp hướng dẫn sử dụng" vertex="1">
-          <mxGeometry height="40" width="100" x="1051" y="370" as="geometry" />
+          <mxGeometry height="40" width="99" x="1051" y="370" as="geometry" />
         </mxCell>
         <mxCell id="TT01PIkdupzn0kL3L-Nl-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="6.2 Tra cứu thông tin" vertex="1">
           <mxGeometry height="40" width="100" x="1051" y="430" as="geometry" />
