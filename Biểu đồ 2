@@ -4047,7 +4047,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="fyOa-aGzlr-eekbFRxFu" name="DFD_mức_0">
-    <mxGraphModel dx="718" dy="592" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="284" dy="234" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4205,8 +4205,8 @@
         <mxCell id="OHyx-EWsNMnF7ycYMv9Q-35" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#0F8B8D;fontColor=#143642;fillColor=#FAE5C7;fontSize=13;" value="Phòng đào tạo" vertex="1">
           <mxGeometry height="30" width="95" x="30" y="13" as="geometry" />
         </mxCell>
-        <mxCell id="OHyx-EWsNMnF7ycYMv9Q-38" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=13;fontColor=#143642;rotation=-90;" value="Danh sách lớp học&amp;nbsp;" vertex="1">
-          <mxGeometry height="10" width="70" x="-5" y="83" as="geometry" />
+        <mxCell id="OHyx-EWsNMnF7ycYMv9Q-38" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=13;fontColor=#143642;rotation=-90;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Thời khóa biểu&lt;/font&gt;" vertex="1">
+          <mxGeometry height="10" width="115" x="-27.5" y="105.5" as="geometry" />
         </mxCell>
         <mxCell id="OHyx-EWsNMnF7ycYMv9Q-40" edge="1" parent="1" source="OHyx-EWsNMnF7ycYMv9Q-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;strokeColor=#A8201A;fontFamily=Helvetica;fontSize=13;fontColor=#143642;fillColor=#FAE5C7;" target="OHyx-EWsNMnF7ycYMv9Q-10">
           <mxGeometry relative="1" as="geometry" />
