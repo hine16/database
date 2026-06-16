@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.15" pages="3">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" pages="4">
   <diagram name="Trang-1" id="7et00IJPyykRwGStqNOX">
     <mxGraphModel dx="1259" dy="769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -937,6 +937,29 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="gziJJ0FAlbssN2Ma0fP0" name="Trang-4">
+    <mxGraphModel dx="934" dy="558" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="JFrRzTu4gLPE7MJnEFFS-1" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" value="&lt;font style=&quot;color: light-dark(rgb(255, 0, 0), rgb(237, 237, 237)); font-size: 8px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Nhân sự&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="50" width="30" x="10" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JFrRzTu4gLPE7MJnEFFS-2" edge="1" parent="1" style="endArrow=block;endFill=1;html=1;edgeStyle=orthogonalEdgeStyle;align=left;verticalAlign=top;rounded=0;" value="gửi đơn đăng ký cho nhà tuyển dụng">
+          <mxGeometry relative="1" x="-1" as="geometry">
+            <mxPoint x="60" y="40" as="sourcePoint" />
+            <mxPoint x="180" y="40" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JFrRzTu4gLPE7MJnEFFS-3" connectable="0" parent="JFrRzTu4gLPE7MJnEFFS-2" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=bottom;" value="1" vertex="1">
+          <mxGeometry relative="1" x="-1" as="geometry" />
+        </mxCell>
+        <mxCell id="JFrRzTu4gLPE7MJnEFFS-4" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" value="&lt;font style=&quot;color: light-dark(rgb(255, 0, 0), rgb(237, 237, 237)); font-size: 8px;&quot;&gt;&lt;b style=&quot;&quot;&gt;NTD&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="50" width="30" x="260" y="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
